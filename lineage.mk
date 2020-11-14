@@ -39,7 +39,7 @@ TARGET_VENDOR_PRODUCT_NAME := lv3
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="lv3" \
     PRODUCT_NAME="lv3" \
-    PRIVATE_BUILD_DESC="lv3_mpcs_us-user 7.0 NRD90U 17318120287ad release-keys"
+    PRIVATE_BUILD_DESC="lv3_tmo_us-user 7.0 NRD90U 163521941dae0 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "MetroPCS/lv3_mpcs_us/lv3:7.0/NRD90U/17318120287ad:user/release-keys"
+BUILD_FINGERPRINT := "lge/lv3_tmo_us/lv3:7.0/NRD90U/163521941dae0:user/release-keys"
